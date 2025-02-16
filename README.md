@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daffa Islami Azka</h1>
 <h3 align="center">A tech enthusiast from Tangerang, Indonesia.</h3>
 
-- 🔭 I’m currently working on [ProSync](https://github.com/DaffaAzka/pro-sync)
+- 🔭 I’m currently working on [Smartclass](https://github.com/DaffaAzka/smart-class)
 
-- 🌱 I’m currently learning **React.js, Laravel, etc.**
+- 🌱 I’m currently learning **React.js, Livewire, etc.**
 
 - 👨‍💻 All of my projects are available at [https://daffaazka.netlify.app/](https://daffaazka.netlify.app/)
 
