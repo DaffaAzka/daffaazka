@@ -15,7 +15,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
 ## 🛠️ Tech Stack
 
 ```
-🖥️ Operating System
+🖥️ Operating Systems
    ├── Ubuntu 24.04.2
    └── Windows 11
 
