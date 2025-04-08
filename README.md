@@ -18,3 +18,11 @@
 <a href="https://instagram.com/dest.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dest.code" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Statistics:</h3>
+- **Operation System:** Ubuntu 24.04.2
+- **Programming Languanges:** C#, PHP, Java, Kotlin, Dart, and JavaScript
+- **Frameworks:** Laravel, Livewire, React.Js, Flutter, and Tailwind
+- **Libraries:** Flowbite, Preline, and Bootstrap **(I don't really like**
+- **Life Languages:** Indonesia and English
+- **Other:** HTML, CSS
+
