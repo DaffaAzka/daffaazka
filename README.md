@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReCodes Remake](https://github.com/DaffaAzka/ReCodes-Remake)
 
-- 🌱 I’m currently learning **React.js, Livewire, Preline, etc.**
+- 🌱 I’m currently learning **Flutter, React.js, Laravel Livewire, etc.**
 
 - 👨‍💻 All of my projects are available at [https://daffaazka.netlify.app/](https://daffaazka.netlify.app/)
 
