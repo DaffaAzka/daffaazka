@@ -25,6 +25,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    ├── Java
    ├── Kotlin
    ├── Dart
+   ├── Go
    └── JavaScript
 
 🔧 Frameworks
