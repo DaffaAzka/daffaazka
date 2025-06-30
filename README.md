@@ -8,7 +8,7 @@
 Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building software solutions that make a difference. When I'm not coding, you'll find me sipping coffee at odd hours of the night, diving into new tech stacks, or refactoring old projects.
 
 ## 💻 Current Projects
-- 🔭 Actively developing [ReCodes Remake](https://github.com/DaffaAzka/ReCodes-Remake)
+- 🔭 Actively developing [ReCodes Remake](https://github.com/DaffaAzka/ReCodes-Remake) and Intership Project
 - 🌱 Expanding my skills in **Go, React, and Laravel Livewire**
 - 🛠️ Exploring new tools to enhance my development workflow
 
