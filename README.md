@@ -33,13 +33,14 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    ├── Laravel
    ├── Livewire
    ├── React.js
+   ├── Node.js
    ├── Flutter
    └── Tailwind CSS
 
 📚 Libraries
    ├── Flowbite
    ├── Preline
-   └── Bootstrap (not my favorite 😅)
+   └── Bootstrap 
 
 🌐 Languages
    ├── Bahasa Indonesia
