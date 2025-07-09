@@ -9,7 +9,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
 
 ## 💻 Current Projects
 - 🔭 Actively developing [ReCodes Remake](https://github.com/DaffaAzka/ReCodes-Remake) and Intership Project
-- 🌱 Expanding my skills in **Go, React, and Laravel Livewire**
+- 🌱 Expanding my skills in **Elysia, React, and Flutter**
 - 🛠️ Exploring new tools to enhance my development workflow
 
 ## 🛠️ Tech Stack
@@ -34,6 +34,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    ├── Livewire
    ├── React.js
    ├── Node.js
+   ├── Elysia.js
    ├── Flutter
    └── Tailwind CSS
 
