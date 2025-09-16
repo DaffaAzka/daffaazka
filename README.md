@@ -33,7 +33,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    ├── Laravel
    ├── Livewire
    ├── React.js
-   ├── Node.js
+   ├── Next.js
    ├── Elysia.js
    ├── Flutter
    └── Tailwind CSS
