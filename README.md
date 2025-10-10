@@ -1,7 +1,7 @@
 # <div align="center">Daffa Azka</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9810FA&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Tea+Addict;Mobile+Developer:Night+Owl;Story+Teller;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9810FA&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Tea+Addict;Mobile+Developer;Night+Owl;Story+Teller;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
