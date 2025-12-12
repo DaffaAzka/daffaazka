@@ -16,7 +16,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
 
 ```
 🖥️ Operating Systems
-   ├── Ubuntu 24.04.2
+   ├── Fedora Linux 43
    └── Windows 11
 
 ⌨️ Programming Languages
