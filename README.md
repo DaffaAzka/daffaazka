@@ -8,7 +8,7 @@
 Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building software solutions that make a difference. When I'm not coding, you'll find me sipping coffee at odd hours of the night, diving into new tech stacks, or refactoring old projects.
 
 ## 💻 Current Projects
-- 🔭 Actively developing [EssencePM](https://github.com/DaffaAzka/EssencePM-API) and Intership Project
+- 🔭 Actively developing Simple AMS using Next and Intership Project
 - 🌱 Expanding my skills in **Elysia, React, and Flutter**
 - 🛠️ Exploring new tools to enhance my development workflow
 
