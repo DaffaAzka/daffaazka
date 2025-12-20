@@ -9,14 +9,14 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
 
 ## 💻 Current Projects
 - 🔭 Actively developing Simple AMS using Next and Intership Project
-- 🌱 Expanding my skills in **Elysia, React, and Flutter**
+- 🌱 Expanding my skills in **Next, Elysia, and Flutter**
 - 🛠️ Exploring new tools to enhance my development workflow
 
 ## 🛠️ Tech Stack
 
 ```
 🖥️ Operating Systems
-   ├── Fedora Linux 43
+   ├── Fedora Workstation 42
    └── Windows 11
 
 ⌨️ Programming Languages
