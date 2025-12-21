@@ -132,7 +132,6 @@ Recent Milestones:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaffaAzka&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   ```
   "Querying for a variable and seizing the time to recompile and trigger my destiny." 
