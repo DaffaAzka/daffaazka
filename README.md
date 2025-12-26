@@ -29,7 +29,7 @@
 ## 💻 Current Missions | Active Deployments
 ```yaml
 Primary Objectives:
-  - Simple AMS Development: [██░░░░░░] 30% Complete
+  - Onyx AMS Development: [██░░░░░░] 30% Complete
   - Internship Project: [██████░░░░] 60% Complete
   
 Skill Enhancement:
