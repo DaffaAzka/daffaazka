@@ -52,13 +52,6 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    └── CSS
 ```
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaffaAzka&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaffaAzka&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
