@@ -19,37 +19,24 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia, who loves building s
    ├── Fedora Workstation 42
    └── Windows 11
 
-⌨️ Programming Languages
-   ├── C#
-   ├── PHP
-   ├── Java
-   ├── Kotlin
-   ├── Dart
-   ├── Go
-   ├── TypeScript
-   └── JavaScript
+🔧 Frontend
+   ├── React.js (TypeScript)
+   ├── Inertia.js
+   └── Tanstack.js 
 
-🔧 Frameworks
-   ├── Laravel
-   ├── Livewire
-   ├── React.js
-   ├── Next.js
-   ├── Elysia.js
-   ├── Flutter
-   └── Tailwind CSS
+⚙️ Backend
+   ├── Laravel (PHP)
+   ├── Elysia.js (TypeScript)
+   ├── Express.js
+   └── NestJS
 
-📚 Libraries
-   ├── Flowbite
-   ├── Preline
-   └── Bootstrap 
+📱 Mobile
+   ├── Flutter (Dart)
+   └── Native (Java/Kotlin)
 
 🌐 Languages
    ├── Bahasa Indonesia
    └── English
-
-➕ Other Skills
-   ├── HTML
-   └── CSS
 ```
 
 ## 📫 Let's Connect!
