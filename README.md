@@ -8,8 +8,8 @@
 Hey there! I'm a tech enthusiast from Tangerang, Indonesia. Who loves building software solutions that make a difference. When I'm not coding, you'll find me sipping coffee at odd hours of the night, diving into new tech stacks, or refactoring old projects.
 
 ## 💻 Current Projects
-- 🔭 Actively developing Onyx Storage using Inertia and Freelance Project
-- 🌱 Expanding my skills in **TanStack, Elysia, and Flutter**
+- 🔭 Actively developing Civic Nest using React Router and Freelance Project
+- 🌱 Expanding my skills in **React, Elysia, and Flutter**
 - 🛠️ Exploring new tools to enhance my development workflow
 
 ## 🛠️ Tech Stack
