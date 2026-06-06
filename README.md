@@ -9,7 +9,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia. Who loves building s
 
 ## 💻 Current Projects
 - 🔭 Actively developing Civic Nest using React Router and Freelance Project
-- 🌱 Expanding my skills in **React, Elysia, and Flutter**
+- 🌱 Expanding my skills in **React, Django, and Flutter**
 - 🛠️ Exploring new tools to enhance my development workflow
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,8 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia. Who loves building s
    ├── Laravel (PHP)
    ├── Elysia.js (TypeScript)
    ├── Express.js
-   └── NestJS
+   ├── NestJS
+   └── Django
 
 📱 Mobile
    ├── Flutter (Dart)
