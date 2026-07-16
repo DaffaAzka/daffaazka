@@ -16,7 +16,7 @@ Hey there! I'm a tech enthusiast from Tangerang, Indonesia. Who loves building s
 
 ```
 🖥️ Operating Systems
-   ├── Fedora Workstation 42
+   ├── CachyOs
    └── Windows 11
 
 🔧 Frontend
