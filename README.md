@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=200&section=header&text=Daffa%20Azka&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Daffa Azka" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=200&section=header&text=Daffa%20Azka&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Daffa Azka" width="100%" /> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Mobile+Developer;Tea+Addict;Night+Owl;Story+Teller" alt="Typing SVG" />
 
@@ -29,6 +29,6 @@ Right now I'm building **Civic Nest** with React Router v7, taking on freelance 
   <img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=100&section=footer" alt="" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=100&section=footer" alt="" width="100%" /> -->
 
 </div>
